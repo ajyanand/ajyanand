@@ -29,8 +29,10 @@ I also have experience working at as a research engineer for the rehab robotics 
 For more about my time at the GRASP lab at the University of Pennsylvania - https://www.grasp.upenn.edu/people/ajay-anand/
 
 🔭 I’m currently working on
+
 Upper limb rehabilitation robot with Recupero Robotics
-Flo humanoid social robot to augment telepresenece rehabilitation interactions.
+
+Flo humanoid social robot to augment telepresence rehabilitation interactions.
 
 📫 How to reach me: writetoajayanand@gmail.com
  
