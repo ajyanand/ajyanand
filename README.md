@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Hi there,
+
 🕸️ My personal website: https://www.ajyanand.com/
 
 😄 Pronouns: He/Him
 
-I'm currently an incoming Robotics PhD student at the Unversity of Utah working at the Human Robot Empowerment Lab (https://hrelab.mech.utah.edu/) under Professor Laura Hallock (https://scholar.google.com/citations?user=9D82kRYAAAAJ&hl=en)
+I'm currently a Robotics PhD student at the Unversity of Utah working at the [Human Robot Empowerment Lab](https://hrelab.mech.utah.edu/) under [Professor Laura Hallock](https://scholar.google.com/citations?user=9D82kRYAAAAJ&hl=en)
 
-I've graduated with a masters degree in robotics from the University of Pennsylvania working under Professor Michelle Johnson (https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the Rehab Robotics Lab (https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
+I've graduated with a masters degree in robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the Rehab Robotics Lab (https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
 
 I also have experience working at as a research engineer for the rehab robotics lab to design novel robotic solutions to augment rehabilitation interactions.
 
@@ -30,7 +31,7 @@ For more about my time at the GRASP lab at the University of Pennsylvania - http
 
 🔭 I’m currently working on
 
-Upper limb rehabilitation robot with Recupero Robotics
+Leveraging human sensing (EMG, sonomyography and motion capture) to build more effective rehabilitative robots.
 
 Flo humanoid social robot to augment telepresence rehabilitation interactions.
 
