@@ -33,8 +33,6 @@ For more about my time at the GRASP lab at the University of Pennsylvania - http
 
 Leveraging human sensing (EMG, sonomyography and motion capture) to build more effective rehabilitative robots.
 
-Flo humanoid social robot to augment telepresence rehabilitation interactions.
-
 📫 How to reach me: writetoajayanand@gmail.com
  
 Find my Resume at https://github.com/ajyanand/Resume
