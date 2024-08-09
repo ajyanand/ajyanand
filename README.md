@@ -23,7 +23,7 @@ Hi there,
 
 I'm currently a Robotics PhD student at the Unversity of Utah working at the [Human Robot Empowerment Lab](https://hrelab.mech.utah.edu/) under [Professor Laura Hallock](https://scholar.google.com/citations?user=9D82kRYAAAAJ&hl=en)
 
-I've graduated with a masters degree in robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
+I've graduated with a Masters degree in Robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
 
 I also have experience working at as a research engineer for the rehab robotics lab to design novel robotic solutions to augment rehabilitation interactions.
 
