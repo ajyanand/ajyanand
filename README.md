@@ -25,7 +25,7 @@ I'm currently a Robotics PhD student at the Unversity of Utah working at the [Hu
 
 I've graduated with a Masters degree in Robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
 
-I also have experience working at as a research engineer for the rehab robotics lab to design novel robotic solutions to augment rehabilitation interactions.
+I also have experience working at as a research engineer for the Rehab Robotics Lab to design novel robotic solutions to augment rehabilitation interactions.
 
 For more about my time at the GRASP lab at the University of Pennsylvania - https://www.grasp.upenn.edu/people/ajay-anand/
 
