@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there,
-
 🕸️ My personal website: https://www.ajyanand.com/
 
 😄 Pronouns: He/Him
