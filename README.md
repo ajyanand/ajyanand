@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 I'm currently a Robotics PhD student at the University of Utah working at the [Human Robot Empowerment Lab](https://hrelab.mech.utah.edu/) under [Professor Laura Hallock](https://scholar.google.com/citations?user=9D82kRYAAAAJ&hl=en)
 
-I've graduated with a Masters degree in Robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/). 
+I've graduated with a masters degree in Robotics from the University of Pennsylvania working under [Professor Michelle Johnson](https://scholar.google.com/citations?user=Bdlf-Z4AAAAJ&hl=en&oi=ao) at the [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/) and have an undergraduate degree in Mechatronics from Manipal University.
 
-I also have experience working at as a research engineer for the Rehab Robotics Lab to design novel robotic solutions to augment rehabilitation interactions.
+I also have experience working at as a research engineer for the Rehab Robotics Lab and Recupero Robotics to design novel robotic solutions to augment rehabilitation interactions.
 
 For more about my time at the GRASP lab at the University of Pennsylvania - https://www.grasp.upenn.edu/people/ajay-anand/
 
@@ -34,3 +34,5 @@ Leveraging human sensing (EMG, sonomyography and motion capture) to build more e
 📫 How to reach me: writetoajayanand@gmail.com
  
 Find my Resume at https://github.com/ajyanand/Resume
+
+Check out my latest research at: [Google Scholar](https://scholar.google.com/citations?user=GR_ky2wAAAAJ&hl=en&oi=ao) and at the [HRE lab website](https://hrelab.mech.utah.edu/publication/)
