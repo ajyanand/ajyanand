@@ -24,7 +24,7 @@ I also have experience working at as a research engineer for the Rehab Robotics 
 
 For more about my time at the GRASP lab at the University of Pennsylvania - https://www.grasp.upenn.edu/people/ajay-anand/
 
-🔭 I’m currently working on
+🤖 I’m currently working on
 
 - Leveraging human sensing (EMG, force-torque sensing, sonomyography and motion capture) to build more effective end-effector rehabilitation robot systems.
 - Characterizing neuromuscular human movement to enable personalized and targeted rehabilition.
