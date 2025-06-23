@@ -27,7 +27,8 @@ For more about my time at the GRASP lab at the University of Pennsylvania - http
 🔭 I’m currently working on
 
 - Leveraging human sensing (EMG, force-torque sensing, sonomyography and motion capture) to build more effective end-effector rehabilitation robot systems.
-- Charecterizing human movement to enable personalized and targeted rehabilition.
+- Characterizing neuromuscular human movement to enable personalized and targeted rehabilition.
+- Creating more effective robot controllers and path planning algorithms to facilitate rehabilitative movements
 
 📫 How to reach me: writetoajayanand@gmail.com
  
