@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🕸️ My personal website: https://www.ajyanand.com/
-
 😄 Pronouns: He/Him
 
 I'm currently a Robotics PhD student at the University of Utah working at the [Human Robot Empowerment Lab](https://hrelab.mech.utah.edu/) under [Professor Laura Hallock](https://scholar.google.com/citations?user=9D82kRYAAAAJ&hl=en)
@@ -29,10 +26,14 @@ For more about my time at the GRASP lab at the University of Pennsylvania - http
 
 🔭 I’m currently working on
 
-Leveraging human sensing (EMG, sonomyography and motion capture) to build more effective rehabilitative robots.
+- Leveraging human sensing (EMG, force-torque sensing, sonomyography and motion capture) to build more effective end-effector rehabilitation robot systems.
+- Charecterizing human movement to enable personalized and targeted rehabilition.
 
 📫 How to reach me: writetoajayanand@gmail.com
  
 Find my Resume at https://github.com/ajyanand/Resume
 
 Check out my latest research at: [Google Scholar](https://scholar.google.com/citations?user=GR_ky2wAAAAJ&hl=en&oi=ao) and at the [HRE lab website](https://hrelab.mech.utah.edu/publication/)
+
+WIP:
+🕸️ My personal website: https://www.ajyanand.com/
